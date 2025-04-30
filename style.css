@@ -219,25 +219,25 @@
 #img2a{
     margin-bottom: 20px;
     margin-right: 20px;
-    background-image: url(/css/amazon/image/image2.1.jpg);
+    background-image: url("image2.1.jpg");
     background-size: cover;
 }
 #img2b{
     margin-left: 20px;
     margin-bottom: 20px;
-    background-image: url(/css/amazon/image/image2.2.jpg);
+    background-image: url("image2.2.jpg");
     background-size: cover;
 }
 #img2c{
     margin-bottom: 20px;
     margin-right: 20px;
-    background-image: url(/css/amazon/image/image2.3.jpg);
+    background-image: url("image2.3.jpg");
     background-size: cover;
 }
 #img2d{
     margin-left: 20px;
     margin-bottom: 20px;
-    background-image: url(/css/amazon/image/image2.4.jpg);
+    background-image: url("image2.4.jpg");
     background-size: cover;
 }
 .seeALLoffer{
@@ -269,25 +269,25 @@
 #img3a{
     margin-bottom: 20px;
     margin-right: 20px;
-    background-image: url(/css/amazon/image/image3.1.jpg);
+    background-image: url("image3.1.jpg");
     background-size: cover;
 }
 #img3b{
     margin-left: 20px;
     margin-bottom: 20px;
-    background-image: url(/css/amazon/image/image3.2.jpg);
+    background-image: url("image3.2.jpg");
     background-size: cover;
 }
 #img3c{
     margin-bottom: 20px;
     margin-right: 20px;
-    background-image: url(/css/amazon/image/image3.3.jpg);
+    background-image: url("image3.3.jpg");
     background-size: cover;
 }
 #img3d{
     margin-left: 20px;
     margin-bottom: 20px;
-    background-image: url(/css/amazon/image/image3.4.jpg);
+    background-image: url("image3.4.jpg");
     background-size: cover;
 }
 
@@ -315,25 +315,25 @@
 #img4a{
     margin-bottom: 20px;
     margin-right: 20px;
-    background-image: url(/css/amazon/image/image4.1.jpg);
+    background-image: url("image4.1.jpg");
     background-size: cover;
 }
 #img4b{
     margin-left: 20px;
     margin-bottom: 20px;
-    background-image: url(/css/amazon/image/image4.2.jpg);
+    background-image: url("image4.2.jpg");
     background-size: cover;
 }
 #img4c{
     margin-bottom: 20px;
     margin-right: 20px;
-    background-image: url(/css/amazon/image/image4.3.jpg);
+    background-image: url("image4.3.jpg");
     background-size: cover;
 }
 #img4d{
     margin-left: 20px;
     margin-bottom: 20px;
-    background-image: url(/css/amazon/image/image4.4.jpg);
+    background-image: url("image4.4.jpg");
     background-size: cover;
 }
 /*
@@ -376,20 +376,20 @@
     margin-top: 5px;
 }
 #p3c1{
-    background-image: url(/css/amazon/image5.jpg);
+    background-image: url("image5.jpg");
     background-size: cover;
 }
 #p3c2{
     width: 170px;
-    background-image: url(/css/amazon/image5.2.jpg);
+    background-image: url("image5.2.jpg");
     background-size: cover;
 }
 #p3c3{
-    background-image: url(/css/amazon/image5.3.jpg);
+    background-image: url("image5.3.jpg");
     background-size: cover;
 }
 #p3c4{
-    background-image: url(/css/amazon/image5.4.jpg);
+    background-image: url("image5.4.jpg");
     background-size: cover;
 }
 
@@ -416,17 +416,17 @@
 }
 #p4c1{
     /* width: 127px; */
-    background-image: url(/css/amazon/image6.1.jpg);
+    background-image: url("image6.1.jpg");
     background-size: cover;
 }
  #p4c2{ 
     
-    background-image: url(/css/amazon/image6.2.jpg);
+    background-image: url("image6.2.jpg");
     background-size: cover;
 } 
 #p4c3{
     padding-right: 20px;
-    background-image: url(/css/amazon/image6.3.jpg);
+    background-image: url("image6.3.jpg");
     background-size: cover;
 }
 /* 
@@ -475,7 +475,7 @@
 #amazonlogofooter{
     height: 40px;
     width: 110px;
-    background-image: url(/css/amazon/Amazonlogo.png);
+    background-image: url("Amazonlogo.png");
     background-size: contain;
 }
 /* 
