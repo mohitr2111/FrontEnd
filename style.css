@@ -30,7 +30,7 @@
     font-size: 20px;
 }
 #navlogo{
-    background-image: url("Amazonlogo.png");
+    background-image: url("/Amazonlogo.png");
     background-size: cover;
     width: 300px;
 }
